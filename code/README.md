@@ -24,3 +24,10 @@ EXTENSION com o formato do arquivo (no caso, .txt)
 
 **signIn()**
     abre o arquivo do usuário que acabou de se conectar ao servidor. recebe como entrada um caminho para arquivo referente ao usuário informado. Se for um usuário existente, apenas abre e fecha o arquivo. Se for inexistente, criará o arquivo para este usuário e o fechará em seguida. //mais coisas acontecerão futuramente
+
+# Utilities
+
+Ainda não tem quase nada, mas é bom para implementar coisas que são úteis tanto para o servidor quanto para o cliente. 
+
+**charToString()**
+    converte uma entrada char para uma string a fim de tornar compatível com outras funcionalidades.

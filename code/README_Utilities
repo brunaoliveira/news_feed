@@ -1,0 +1,4 @@
+Ainda não tem quase nada, mas é bom para implementar coisas que são úteis tanto para o servidor quanto para o cliente. 
+
+charToString()
+    converte uma entrada char para uma string a fim de tornar compatível com outras funcionalidades.
